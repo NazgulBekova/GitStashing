@@ -11,6 +11,12 @@ public class Main {
         Audi.headLights="blue";
         Audi.regNo="tuzik";
 
+        //lets write our own code
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHZ");
+        System.out.println("turn on the AC");
+
+
 
     }
 }
